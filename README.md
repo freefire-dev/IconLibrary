@@ -4,35 +4,42 @@ The **FF Item Library** is a lightweight, responsive web application for searchi
 
 🌐 **Live Website:** [Visit FF Item Library](https://items.freefire.dev/)
 
+---
+
 ## 🌟 Features
 
 - 🔎 Search bar with dynamic filters:
   - Rarity (e.g., Mythic, Epic, Rare)
-  - Item type (Weapons, Clothes)
-  - Game update versions (OB48, OB49)
+  - Item type (Weapons, Clothes, Bundles, Emotes, Pets, etc.)
+  - Game update versions (OB48, OB49, etc.)
 - 🎨 Theme switcher (3 customizable background gradient themes)
-- 🎵 Background music selector
-- 🖼 Image quality toggle (Original / AI Upscaled)
-- 🔢 Pagination for item display
+- 🎵 Background music selector (with lobby-style tracks)
+- 🖼 Image quality toggle:
+  - Original (low data usage)
+  - AI Gen (upscaled preview)
+- 🔢 Icons Per Page:
+  - Choose 12, 30, 60, or 120 items per page
 - 🧾 Detailed item preview popup with:
-  - Item name and description
-  - Item ID and Icon name
-  - Preview image and video tab
+  - Item Name and Description
+  - Item ID and Icon Name
+  - Preview Image and YouTube Video Tab
 - ⚙️ Settings panel with UI controls
-- 🧑‍💻 Clean UI with FontAwesome icons
+- 🧑‍💻 Clean UI with Beautiful icons
 
-- # 📘 How to Use FF Item Library Website
+---
 
-- ## 🔎 1. Searching for Items
+## 📘 How to Use FF Item Library Website
+
+### 🔎 1. Searching for Items
 
 - Use the **Search Bar** at the top of the page to find items by name.
 - Start typing a keyword (e.g., "AK", "Bundle", "Backpack"), and the page will filter matching items automatically.
 
 ---
 
-## 🎯 2. Filtering Options
+### 🎯 2. Filtering Options
 
-### 📛 Rare Type
+#### 📛 Rare Type
 - Choose the rarity level of the item:
   - 🟥 Artifact
   - 🟧 Mythic+
@@ -42,70 +49,83 @@ The **FF Item Library** is a lightweight, responsive web application for searchi
   - 🟩 Uncommon
   - ⬜ Common
 
-### 🧢 Item Type
+#### 🧢 Item Type
 - Filter by item categories:
   - Weapon
   - Clothes
+  - Bundles
+  - Emotes
+  - Pets
+  - More...
 
-### 🆕 Game Update
+#### 🆕 Game Update
 - Narrow down results by update version:
-  - OB48
-  - OB49
+  - OB48, OB49, etc.
 
 ---
 
-## 📄 3. Viewing Item Details
+### 📄 3. Viewing Item Details
 
 - Click on any item in the results grid.
 - A popup will appear showing:
-  - Item Name
-  - Description
-  - Item ID
-  - Icon Name
-  - Image Preview
-  - Video Preview (if available)
+  - 📝 Item Name
+  - 🔍 Description
+  - 🆔 Item ID
+  - 📛 Icon Name
+  - 🖼 Image Preview
+  - 📺 YouTube Video Preview (if available)
 
 ---
 
-## ⚙️ 4. Settings Menu
+### ⚙️ 4. Settings Menu
 
 Click the ⚙️ icon to open settings. Here you can customize:
 
-### 🎵 Background Music
-- Turn background music On or Off.
-- Choose from available music tracks.
+#### 🎵 Background Music
+- Enable/disable music
+- Choose from available tracks (auto-looping)
 
-### 🖼 Image Quality
-- **Original** – Loads faster and uses less data.
-- **AI Gen** – Higher resolution, may use more data.
+#### 🖼 Image Quality
+- **Original** – Loads faster and saves data
+- **AI Gen** – High-quality upscaled icons
 
-### 🖼 Icons Per Page
-- Choose how many icons appear per page:
-  - 12, 30, 60, or 120 items
+#### 🔢 Icons Per Page
+- Show 12, 30, 60, or 120 items per page
 
-### 🎨 Theme
-- Select from 3 colorful gradient backgrounds.
+#### 🎨 Theme
+- Choose from 3 animated gradient background themes
+
+#### 🧭 Pagination Position
+- Choose to display pagination controls at the **Top** or **Bottom** of the page
 
 ---
 
-## 🔄 5. Pagination
+### 🔄 5. Pagination
 
-- Use the pagination controls at the bottom to switch between item pages:
+- Use the pagination controls to navigate item pages:
   - ◀️ Previous Page
   - ▶️ Next Page
+  - << First / >> Last
 
 ---
 
 ## 💡 Tips
 
-- Collapse or expand the search bar using the ▲ toggle.
-- Hover over items for more interactivity.
-- Use mobile-friendly mode for smaller devices – the site is fully responsive!
+- Collapse or expand the search bar using the ▲ toggle
+- Hover over items for quick interactivity
+- Supports mobile and desktop – fully responsive design
+
+---
+
+## 🔐 Security Note
+
+- Network Responses are encrypted with **Higher Security Method** and transmitted as encoded to improve client-server privacy.
 
 ---
 
 ## 🙋 Need Help?
 
 If something doesn’t work as expected or you have suggestions, please email us.
+support@freefire.dev
 
 Enjoy browsing your favorite Free Fire items! 🔥
