@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-10-24 12:00",
+    "Head": "OB51 Update Items Added (Full)",
+    "Desc": "All items from the OB51 update has been updated"
+  },
+  {
+    "date": "2025-10-17 04:45",
+    "Head": "OB51 Update Items Added (Half)",
+    "Desc": "Half of items from the OB51 update has been added"
+  },
+  {
+    "date": "2025-10-17 04:30",
+    "Head": "New Categories Added to Site",
+    "Desc": "OB50 and OB51 New Categories Added"
+  },
+  {
+    "date": "2025-10-14 14:20",
+    "Head": "AI Icons V2 Updated",
+    "Desc": "AI Icons v2 upto OB50 Updated"
+  },
+  {
+    "date": "2025-09-23 04:10",
+    "Head": "New Music Added",
+    "Desc": "Check them on settings"
+  },
+  {
+    "date": "2025-09-23 04:05",
+    "Head": "Site Moved to New Server",
+    "Desc": "For Better User Experience we moved site to different Server"
+  },
+  {
     "date": "2025-08-24 02:35",
     "Head": "Search Button Optimization",
     "Desc": "Added Enter Button to Search Feature and Make Search Button Black for Better Focus"
